@@ -1,0 +1,11 @@
+- Tag
+    - strong
+        - bold
+    - u
+        - underline
+    - h1 to h6
+        - option for title size
+- Frequency of tag
+    - 모든 것을 알 필요가 없다.
+    - https://www.advancedwebranking.com/html/
+
