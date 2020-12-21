@@ -37,7 +37,16 @@
             - search **public domain image** : free image
             - [unsplash][unsplash]
         - usase : \<img src="test_img.png"\>
+<br>
 
+- 코딩 공부를 할 때는 ***항상 극단적으로*** 생각해야 합니다. 극단적이지 않은 경우에는 코딩을 할 필요가 없기 때문입니다.
 
+<h3>부모자식이 필수인 태그들</h3>
+
+- \<li\> : *로 리스팅
+    - \<ul\> : 목록간의 차이를 두고 싶을 때,\<li\>의 부모로 쓰는 태그
+        - unordered list
+    - \<ol\> : 목록간의 차이를 두고 싶을 때,\<li\>의 부모로 쓰는 태그
+        - ordered list : 수(1,2,...)로 리스팅
 
 [unsplash]:https://unsplash.com
